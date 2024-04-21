@@ -1,0 +1,13 @@
+Model ,Type ,RMSE ,MAE,NSE,R2
+XGB Linear,Base approach,0.127,0.938,0.398,0.424
+XGB Linear,Cluster approach,0.111,0.794,0.541,0.551
+XGB Linear,Sampling approach,0.103,0.830,0.602,0.604
+RRF,Base approach,0.121,0.761,0.455,0.510
+RRF,Cluster approach,0.107,0.626,0.574,0.611
+RRF,Sampling approach,0.104,0.709,0.596,0.626
+XGB Tree,Base approach,0.133,1.002,0.348,0.405
+XGB Tree,Cluster approach,0.118,0.851,0.488,0.536
+XGB Tree,Sampling approach,0.111,0.978,0.539,0.569
+KNN,Base approach,0.135,0.967,0.324,0.368
+KNN,Cluster approach,0.123,0.841,0.439,0.465
+KNN,Sampling approach,0.118,0.944,0.478,0.491

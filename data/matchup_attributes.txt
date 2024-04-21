@@ -1,0 +1,19 @@
+The "matchup_data_clean_good.csv" file contains the training and validation dataset for the ML models. The different attributes within the datasets are:
+
+- MonitoringLocationIdentifier: Gauge Station ID
+- ActivityStartDate: Gauge Measurement Date
+- MonitoringLocationName: Gauge Location Name
+- lat: Latitude
+- lon: Longitude
+- ResultMeasureValue: Riverine Total Phosphorus Measurement Value
+- ResultMeasure.MeasureUnitCode: Measurement Unit
+- ResultSampleFractionText: Phosphorus composition (Total Phosphorus includes dissolved and particulate phosphorus)
+- CharactericName: Nutrient Name
+- MonitoringLocationType: Waterbody type
+- SampleCollectionMethod: Measurement method
+- ResultAnalyticalMethod: Analysis Method
+- USGSPCode
+- siteUrl: Data Available on this site
+- sceneID: Landsat Scene ID
+
+For further details on band combinations, refer to the Supporting Documents.
