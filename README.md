@@ -2,7 +2,7 @@
 
 This repository contains the source code for the paper titled 'Toward Large-Scale Riverine Phosphorus Estimation Using Remote Sensing and Machine Learning.' The source code was used to develop machine learning (ML) models for estimating riverine phosphorus in U.S. rivers using river reflectance data retrieved from the Landsat archive.
 
-**Overview:** We compare the estimation accuracy of four ML models—XGBlinear, Randomized Random Forest (RRF), XGBtree, and K-Nearest Neighbours—while considering three ML approaches: Base, Cluster, and Sampling. We also assess the estimation accuracy of the ML models on both the validation and training datasets to evaluate the potential for overfitting.
+**Overview:** We compare the estimation accuracy of four ML models—XGBLinear, Randomized Random Forest (RRF), XGBTree, and K-Nearest Neighbours—while considering three ML approaches: Base, Cluster, and Sampling. We also assess the estimation accuracy of the ML models on both the validation and training datasets to evaluate the potential for overfitting.
 
 - The `src` folder contains R scripts for the various ML models.
 - The `function` folder contains R scripts with user-defined functions utilized in the ML models.
