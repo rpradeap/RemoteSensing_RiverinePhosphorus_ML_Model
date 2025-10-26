@@ -22,3 +22,6 @@ This repository contains the source code for the paper titled 'Toward Large-Scal
 The ML results are reproduced in the same folder where the source code exists. Please refer to Model Overview.txt file for a better understanding on the ML model's structure.
   
   If you have any questions or requests for additional data related to this paper, please contact the corresponding author: Pradeep Ramtel (ramtelpp@mail.uc.edu).
+
+
+  Link to paper: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JG008121
